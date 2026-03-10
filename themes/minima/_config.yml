@@ -1,0 +1,52 @@
+#title in header
+title: "Hi Folks."
+
+#main info
+#owner
+owner: "I am Lucas"
+info: "一名跨境创业者, 终身学习者"
+#description
+desc: "愿你三冬暖，愿你春不寒，愿你天黑有灯，下雨有伞，愿你路上有良人相伴."
+
+#menu
+menu:
+
+  Life: /categories/life 
+  Work: /categories/work
+  Self: /categories/self 
+
+#index/main page max show posts (in number)
+max_post: 4
+
+# Colors use hex color without #
+# Theme color
+tcolor: 0FA0CE
+
+# Define path to user css
+#(could be also located outside of theme)
+# Relative to source/ directory
+usercss: css/user.css
+
+# social profile at the footer/bottom
+footer: true
+Youtube: https://www.youtube.com/@nichesiteroad
+# Misc
+nanobar: /js/nanobar.min.js
+switch_light: ☀️
+switch_dark: 🌑
+
+# Picture enlargement
+picjs: /js/pic.min.js
+
+# favicon
+favicon: /images/favicon.png
+# thumbnail
+thumbnail: /images/thumbnail.jpg
+
+article:
+  thumbnail: true
+
+baidusitemap:
+    path: baidusitemap.xml
+sitemap:
+    path: sitemap.xml

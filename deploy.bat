@@ -1,5 +1,9 @@
 @echo off
+<<<<<<< HEAD
 cd /d D:\HexoSite
+=======
+cd /d D:\Hexo\hexo-blog
+>>>>>>> 05ca0cc (update)
 echo ===== Pull latest =====
 git pull --rebase origin main
 echo ===== Add =====
